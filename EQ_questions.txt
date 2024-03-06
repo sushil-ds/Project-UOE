@@ -1,0 +1,29 @@
+s-1:
+Introduction:
+The topic we are going to discuss is relatad to one of the less spoken catastrophic event Earthquakes.
+What is Earthquake?
+How are they caused?
+What sort of damage they cause?
+
+s-2
+Most destructible earthquake happened till date.
+They provide us numerous case studies.One such event held in nepal which roots to our case study.
+
+s-3
+Why it is important to particularly analyse and do this case study.
+	When we can predict the buildage damage to some extent may be we can save lots of millions and human lives.
+How important for us to take convern with Data governance.
+Who are the data workers involved in this.
+Who are the authorized persons to do data collection and storage.  
+What threat would be proposed if there is data leakage.
+
+S-3
+How data governance can be enhanced. 
+How it would be beneficial to government authorities if data governance is enhanced.
+How to prevent data piracy.
+WHo are all involved in this process.
+
+
+
+
+
